@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Projetinho_Toguro/1.0.0": {
+        "runtime": {
+          "Projetinho_Toguro.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Projetinho_Toguro/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,32 @@
+C:\Users\alunocmc\Source\Repos\Projetinho_Toguro\Projetinho_Toguro\bin\Debug\netcoreapp3.1\Projetinho_Toguro.exe
+C:\Users\alunocmc\Source\Repos\Projetinho_Toguro\Projetinho_Toguro\bin\Debug\netcoreapp3.1\Projetinho_Toguro.deps.json
+C:\Users\alunocmc\Source\Repos\Projetinho_Toguro\Projetinho_Toguro\bin\Debug\netcoreapp3.1\Projetinho_Toguro.runtimeconfig.json
+C:\Users\alunocmc\Source\Repos\Projetinho_Toguro\Projetinho_Toguro\bin\Debug\netcoreapp3.1\Projetinho_Toguro.runtimeconfig.dev.json
+C:\Users\alunocmc\Source\Repos\Projetinho_Toguro\Projetinho_Toguro\bin\Debug\netcoreapp3.1\Projetinho_Toguro.dll
+C:\Users\alunocmc\Source\Repos\Projetinho_Toguro\Projetinho_Toguro\bin\Debug\netcoreapp3.1\Projetinho_Toguro.pdb
+C:\Users\alunocmc\Source\Repos\Projetinho_Toguro\Projetinho_Toguro\obj\Debug\netcoreapp3.1\Projetinho_Toguro.csproj.AssemblyReference.cache
+C:\Users\alunocmc\Source\Repos\Projetinho_Toguro\Projetinho_Toguro\obj\Debug\netcoreapp3.1\Projetinho_Toguro.Form1.resources
+C:\Users\alunocmc\Source\Repos\Projetinho_Toguro\Projetinho_Toguro\obj\Debug\netcoreapp3.1\Projetinho_Toguro.csproj.GenerateResource.cache
+C:\Users\alunocmc\Source\Repos\Projetinho_Toguro\Projetinho_Toguro\obj\Debug\netcoreapp3.1\Projetinho_Toguro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alunocmc\Source\Repos\Projetinho_Toguro\Projetinho_Toguro\obj\Debug\netcoreapp3.1\Projetinho_Toguro.AssemblyInfoInputs.cache
+C:\Users\alunocmc\Source\Repos\Projetinho_Toguro\Projetinho_Toguro\obj\Debug\netcoreapp3.1\Projetinho_Toguro.AssemblyInfo.cs
+C:\Users\alunocmc\Source\Repos\Projetinho_Toguro\Projetinho_Toguro\obj\Debug\netcoreapp3.1\Projetinho_Toguro.csproj.CoreCompileInputs.cache
+C:\Users\alunocmc\Source\Repos\Projetinho_Toguro\Projetinho_Toguro\obj\Debug\netcoreapp3.1\Projetinho_Toguro.dll
+C:\Users\alunocmc\Source\Repos\Projetinho_Toguro\Projetinho_Toguro\obj\Debug\netcoreapp3.1\Projetinho_Toguro.pdb
+C:\Users\alunocmc\Source\Repos\Projetinho_Toguro\Projetinho_Toguro\obj\Debug\netcoreapp3.1\Projetinho_Toguro.genruntimeconfig.cache
+C:\Users\cinco\Desktop\Aula herança\Projetinho_Toguro\bin\Debug\netcoreapp3.1\Projetinho_Toguro.exe
+C:\Users\cinco\Desktop\Aula herança\Projetinho_Toguro\bin\Debug\netcoreapp3.1\Projetinho_Toguro.deps.json
+C:\Users\cinco\Desktop\Aula herança\Projetinho_Toguro\bin\Debug\netcoreapp3.1\Projetinho_Toguro.runtimeconfig.json
+C:\Users\cinco\Desktop\Aula herança\Projetinho_Toguro\bin\Debug\netcoreapp3.1\Projetinho_Toguro.runtimeconfig.dev.json
+C:\Users\cinco\Desktop\Aula herança\Projetinho_Toguro\bin\Debug\netcoreapp3.1\Projetinho_Toguro.dll
+C:\Users\cinco\Desktop\Aula herança\Projetinho_Toguro\bin\Debug\netcoreapp3.1\Projetinho_Toguro.pdb
+C:\Users\cinco\Desktop\Aula herança\Projetinho_Toguro\obj\Debug\netcoreapp3.1\Projetinho_Toguro.csproj.AssemblyReference.cache
+C:\Users\cinco\Desktop\Aula herança\Projetinho_Toguro\obj\Debug\netcoreapp3.1\Projetinho_Toguro.Form1.resources
+C:\Users\cinco\Desktop\Aula herança\Projetinho_Toguro\obj\Debug\netcoreapp3.1\Projetinho_Toguro.csproj.GenerateResource.cache
+C:\Users\cinco\Desktop\Aula herança\Projetinho_Toguro\obj\Debug\netcoreapp3.1\Projetinho_Toguro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cinco\Desktop\Aula herança\Projetinho_Toguro\obj\Debug\netcoreapp3.1\Projetinho_Toguro.AssemblyInfoInputs.cache
+C:\Users\cinco\Desktop\Aula herança\Projetinho_Toguro\obj\Debug\netcoreapp3.1\Projetinho_Toguro.AssemblyInfo.cs
+C:\Users\cinco\Desktop\Aula herança\Projetinho_Toguro\obj\Debug\netcoreapp3.1\Projetinho_Toguro.csproj.CoreCompileInputs.cache
+C:\Users\cinco\Desktop\Aula herança\Projetinho_Toguro\obj\Debug\netcoreapp3.1\Projetinho_Toguro.dll
+C:\Users\cinco\Desktop\Aula herança\Projetinho_Toguro\obj\Debug\netcoreapp3.1\Projetinho_Toguro.pdb
+C:\Users\cinco\Desktop\Aula herança\Projetinho_Toguro\obj\Debug\netcoreapp3.1\Projetinho_Toguro.genruntimeconfig.cache

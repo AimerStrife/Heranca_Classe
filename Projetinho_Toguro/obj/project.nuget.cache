@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "H2ZxzWP0NRha1TM9+fzk94JMA7bfcXFTfp1kuKnw3Xr/QQDuyRKvPXvV1uvRu1ul0f3pcG/sca1o/s/xCEtSuQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cinco\\Desktop\\Aula herança\\Projetinho_Toguro\\Projetinho_Toguro.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cinco\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512",
+    "C:\\Users\\cinco\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\cinco\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\cinco\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
